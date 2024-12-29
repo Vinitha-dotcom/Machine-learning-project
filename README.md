@@ -57,5 +57,5 @@ Analyzed Amazon sales data to uncover key insights and trends across different s
    - Worst Product: Cubify CubeX (-$8.9K profit).  
 
 ## Dashboard Link  
-[View Dashboard](https://github.com/Vinitha-dotcom/Data-Analysis-Dashboard)
+[View Dashboard](https://github.com/Vinitha-dotcom/Machine-learning-project/blob/main/amazon_dashboard.pdf)
 
